@@ -13,6 +13,6 @@ How to Use
 ==========
 Once installed the plugin, when you need to implement Autocompleate on your address input enter "googleautocompleate" as class name
 
-<code>
-  <input type="text" name"address" class"googleautocompleate" >
-</code>
+
+<input type="text" name"address" class"googleautocompleate" >
+
