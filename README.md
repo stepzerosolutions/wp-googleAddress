@@ -6,7 +6,7 @@ This plugin will help you to implement google autocomplete on your form input fi
 Install
 =======
 
-Include this plugin in plugins folder and install from wordpress backend.
+Include this plugin in plugins folder and install from * [wordpress] backend.
 
 
 How to Use
